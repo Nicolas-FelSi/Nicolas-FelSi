@@ -1,4 +1,4 @@
-## Olá, Me chamo Nicolas Felipe, e estou iniciando na carreira de programação e tecnologia!
+## Olá, me chamo Nicolas Felipe, e estou iniciando na carreira de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Nicolas-FelSi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-FelSi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -21,6 +21,5 @@
   <a href = "mailto:nicolasfelipe3702@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolasfelsidev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Nicolas-FelSi/Nicolas-FelSi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
