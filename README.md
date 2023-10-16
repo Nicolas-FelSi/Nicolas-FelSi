@@ -8,8 +8,9 @@
   <img align="center" alt="Nico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nico-CSS" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
-  <img align="center" alt="Nico-CSS" height="50" width="50" src="https://www.svgrepo.com//show/376344/python.svg">
+  <img align="center" alt="Nico-C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png">
+  <img align="center" alt="Nico-Python" height="50" width="50" src="https://www.svgrepo.com//show/376344/python.svg">
+  <img align="center" alt="Nico-SASS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
 </div>
   
   ##
