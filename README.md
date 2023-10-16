@@ -1,7 +1,7 @@
 ## Olá, me chamo Nicolas Felipe, e estou iniciando na carreira de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Nicolas-FelSi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-FelSi&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-FelSi&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-FelSi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block">
