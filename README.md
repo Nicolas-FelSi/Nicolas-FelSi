@@ -5,12 +5,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-FelSi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block">
-  <img align="center" alt="Nico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nico-PHP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
-  <img align="center" alt="Nico-Python" height="50" width="50" src="https://www.svgrepo.com//show/376344/python.svg">
-  <img align="center" alt="Nico-SASS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
+  <img align="center" alt="icone Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="icone HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icone CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icone PHP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png">
+  <img align="center" alt="icone Python" height="50" width="50" src="https://www.svgrepo.com//show/376344/python.svg">
+  <img align="center" alt="icone vuejs" height="40" width="40" src="https://img.icons8.com/?size=100&id=rY6agKizO9eb&format=png&color=000000">
+  <img align="center" alt="icone typescript" height="40" width="40" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000">
 </div>
   
   ##
